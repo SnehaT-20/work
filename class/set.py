@@ -1,0 +1,11 @@
+set1={1,2,3,4}
+set2={5,6,7,8}
+set3={5,6,8,6}
+set4=set1.intersection(set2,set3)
+print(set4)
+set5=set1.union(set2,set3)
+print(set5)
+set6=set2.difference(set1)
+print(set6)
+'''intersection=& 
+    union=|'''
